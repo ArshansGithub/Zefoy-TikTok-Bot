@@ -1,6 +1,6 @@
 # Zefoy-TikTok-Bot
 
-![GitHub License](https://img.shields.io/badge/license-GNU-blue.svg)
+![GitHub License](https://img.shields.io/badge/license-GPL-blue.svg)
 
 Zefoy-TikTok-Bot is an open-source Python utility that enables you to boost your tiktok engagement such as views, likes, followers, comments, favorites, and shares through a reverse engineered website (zefoy.com)
 
