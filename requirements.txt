@@ -1,0 +1,5 @@
+beautifulsoup4
+pytesseract
+requests
+pillow
+random-user-agent
